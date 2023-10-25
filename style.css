@@ -1,0 +1,67 @@
+/* Apply a background color and text color to the body */
+body {
+    background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the header */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Style the h1 in the header */
+header h1 {
+    font-size: 24px;
+}
+
+/* Style the main content area */
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Style section headings */
+section h2 {
+    color: #0072c6;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+/* Style paragraphs */
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* Style the unordered list */
+ul {
+    list-style-type: square;
+    margin-left: 20px;
+}
+
+/* Style list items */
+li {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* Apply some padding to the list items */
+li {
+    padding: 5px 0;
+}
+
+/* Add some margin to the top of the main content */
+main {
+    margin-top: 20px;
+}
+
+/* Add some padding to the bottom of the main content */
+main {
+    padding-bottom: 40px;
+}
